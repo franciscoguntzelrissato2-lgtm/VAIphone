@@ -2,10 +2,6 @@
   "name": "meta-velha",
   "version": "1.0.0",
   "private": true,
-  "description": "Meta Velha — jogo da velha para iPhone",
-  "scripts": {
-    "build": "node -e \"console.log('Arquivos web prontos em www/')\""
-  },
   "dependencies": {
     "@capacitor/core": "^8.0.0",
     "@capacitor/ios": "^8.0.0"
